@@ -4,7 +4,7 @@ Turn YouTube into a distraction-free video player by removing all UI elements wh
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Visit this link
 
 👉 https://alpenlieb3.github.io/Clean-mode/
 
