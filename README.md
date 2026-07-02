@@ -81,9 +81,3 @@ Note: YouTube updates may occasionally require selector updates.
 
 A simple tool that removes YouTube UI clutter and creates a clean, distraction-free viewing experience without affecting playback.
 
-
-If you want, I can next help you:
-
-* make it look like a **popular open-source project**
-* add a **cool logo + name branding**
-* or convert it into a **Chrome extension (much more powerful than bookmarklet)**
